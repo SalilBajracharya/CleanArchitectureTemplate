@@ -1,5 +1,8 @@
+using ca_loyalty.Application;
+using ca_loyalty.Infrastructure;
 using ca_loyalty.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Builder;
+using WebUI;
 using WebUI.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);

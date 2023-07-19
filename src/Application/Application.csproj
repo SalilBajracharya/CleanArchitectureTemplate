@@ -2,8 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
-        <RootNamespace>ca_loyalty.Application</RootNamespace>
-        <AssemblyName>ca_loyalty.Application</AssemblyName>
+        <RootNamespace>CleanArchitectureTemplates.Application</RootNamespace>
+        <AssemblyName>CleanArchitectureTemplates.Application</AssemblyName>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>

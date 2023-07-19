@@ -1,10 +1,10 @@
 ﻿using ca_loyalty.Application.Common.Interfaces;
 using ca_loyalty.Infrastructure.Persistence;
-using ca_loyalty.WebUI.Services;
 using Microsoft.AspNetCore.Mvc;
 using WebUI.Extensions;
+using WebUI.Services;
 
-namespace Microsoft.Extensions.DependencyInjection;
+namespace WebUI;
 
 public static class ConfigureServices
 {

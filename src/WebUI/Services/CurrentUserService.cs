@@ -2,7 +2,7 @@
 
 using ca_loyalty.Application.Common.Interfaces;
 
-namespace ca_loyalty.WebUI.Services;
+namespace WebUI.Services;
 
 public class CurrentUserService : ICurrentUserService
 {

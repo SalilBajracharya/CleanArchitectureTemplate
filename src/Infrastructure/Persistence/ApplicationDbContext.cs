@@ -1,6 +1,7 @@
 ﻿using System.Reflection;
 using ca_loyalty.Application.Common.Interfaces;
 using ca_loyalty.Domain.Entities;
+using ca_loyalty.Infrastructure.Common;
 using ca_loyalty.Infrastructure.Identity;
 using ca_loyalty.Infrastructure.Persistence.Interceptors;
 using Duende.IdentityServer.EntityFramework.Options;

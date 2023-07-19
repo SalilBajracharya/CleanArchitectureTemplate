@@ -1,8 +1,8 @@
-﻿using ca_loyalty.WebUI.Filters;
-using MediatR;
+﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using WebUI.Filters;
 
-namespace ca_loyalty.WebUI.Controllers;
+namespace WebUI.Controllers;
 
 [ApiController]
 [ApiExceptionFilter]
